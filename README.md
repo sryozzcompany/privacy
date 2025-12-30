@@ -2,7 +2,7 @@
 
 آخر تحديث: 27-12-2025
 
-نحن في تطبيق SRYOSS ALYAQEEN — Prayer Time & Quran نحترم خصوصية المستخدمين ونلتزم بحماية بياناتهم. توضح سياسة الخصوصية هذه كيفية التعامل مع المعلومات عند استخدام التطبيق.
+نحن في تطبيق SRYOSS ALYAQEEN نحترم خصوصية المستخدمين ونلتزم بحماية بياناتهم. توضح سياسة الخصوصية هذه كيفية التعامل مع المعلومات عند استخدام التطبيق.
 
 جمع المعلومات
 
@@ -47,7 +47,7 @@ Google Play Services
 
 Last updated: 27-12-2025
 
-At SRYOSS ALYAQEEN — Prayer Time & Quran, we respect users’ privacy and are committed to protecting it.
+At SRYOSS ALYAQEEN we respect users’ privacy and are committed to protecting it.
 
 Information Collection
 
